@@ -1,6 +1,6 @@
 using POO.SharedContext;
 
-namespace Balta.SubscriptionContext
+namespace POO.SubscriptionContext
 {
     public class User : Base
     {

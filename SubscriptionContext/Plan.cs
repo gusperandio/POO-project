@@ -1,10 +1,10 @@
 using POO.SharedContext;
 
-namespace Balta.SubscriptionContext
+namespace POO.SubscriptionContext
 {
     public class Plan : Base
     {
-        public string Title { get; set; }
+        public string Title { get; set; } = string.Empty;
         public decimal Price { get; set; }
     }
 }

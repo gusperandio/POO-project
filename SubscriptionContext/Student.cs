@@ -1,7 +1,7 @@
 using POO.NotificationContext;
 using POO.SharedContext;
 
-namespace Balta.SubscriptionContext
+namespace POO.SubscriptionContext
 {
     public class Student : Base
     {
